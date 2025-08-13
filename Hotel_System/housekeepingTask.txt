@@ -1,0 +1,24 @@
+T01,Strip the bed
+T02,Replace bed sheets
+T03,Replace pillowcases
+T04,Make the bed neatly
+T05,Vacuum the floor
+T06,Scrub the toilet
+T07,Clean the sink
+T08,Clean the shower or bathtub
+T09,Disinfect bathroom surfaces
+T10,Remove used towels
+T11,Provide clean towels
+T12,Provide clean bath towels
+T13,Refill soap
+T14,Refill shampoo and conditioner
+T15,Empty the trash bins
+T16,Replace trash liners
+T17,Wipe down tables and desks
+T18,Dust and clean shelves and surfaces
+T19,Polish mirrors
+T20,Test the lights
+T21,Test the air conditioning
+T22,Test the television and remote
+T23,Check for any maintenance issues
+T24,Clean the whole room

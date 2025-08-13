@@ -1,0 +1,5 @@
+L01,Lift 1,Normal lift for guest to use
+L02,Lift 2,Normal lift for guest to use
+L03,Lift 3,Normal lift for guest to use
+L04,Lift 4,Normal lift for guest to use
+L05,Emergency Lift,Lift used during emergencies

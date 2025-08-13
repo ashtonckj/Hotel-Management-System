@@ -1,0 +1,6 @@
+S01, Laundry Service, Professional washing & drying & ironing of guest clothing with same-day delivery, 08:00, 21:00
+S02, Spa and Massage, Relax and rejuvenate with full-body massages and spa treatments, 10:00, 18:00
+S03, Airport Shuttle, Convenient transportation to and from the airport on reservation, 00:00, 00:00
+S04, Luggage Handling, Porter service to safely transport guest luggage to and from rooms, 08:00, 23:00
+S05, Event Setup, Custom different event arrangements including decoration & audio-visual setup & seating, 09:00, 21:00
+S06, Valet Parking, Secure and efficient valet parking service provided by professional valet drivers, 08:00, 23:00

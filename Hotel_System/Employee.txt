@@ -1,0 +1,110 @@
+Food & Beverage,24E001,Adrian Goh Yew Hong,000714071185,+60 12-503 7742,Waiter,adriangoh00@gmail.com,2100.0,Active
+Sales & Marketing,24E002,Adrian Liew Wen Jie,911230070473,+60 11-483 4665,Marketing & Communications Manager,adrian1230@gmail.com,6000.0,Active
+FrontDesk,24E003,Alice Lim Mei Ping,940102070244,+60 10-123 4567,Front Office Manager,alice12@gmail.com,5000.0,Active
+Sales & Marketing,24E004,Amanda Soh Jia Wen,950504071038,+60 11-021 1332,Digital Marketing Executive,amanda54@gmail.com,4000.0,Active
+FrontDesk,24E005,Amy Liew Mei Jun,960506070246,+60 12-345 6789,Front desk Assistant Manager,amyy56@gmail.com,4300.0,Active
+Housekeeping,24E006,Andy Lau Tak Wah,841104079785,+60 12-278 5746,Room Attendant,andy1104@gmail.com,2800.0,Active
+Maintenance,24E007,Angelina Loo Mei Mei,950903071339,+60 17-573 4724,Maintenance Worker,angelina93@gmail.com,3000.0,Active
+Housekeeping,24E008,Ashley Ng Xin Yu,861005077368,+60 12-232 2867,Public Area Cleaner,ashley15@gmail.com,2700.0,Active
+Housekeeping,24E009,Bobo Tang Guo,850720074979,+60 11-234 5987,Room Attendant,bobo720@gmail.com,2800.0,Active
+Housekeeping,24E010,Bob Wong Hao Lei,850207071845,+60 19-654 3210,Executive Housekeeper,bob27@gmail.com,4800.0,Active
+Security,24E011,Bryan Lee Jun Hong,980630074569,+60 11-123 3226,Security Guard,bryan630@gmail.com,2800.0,Active
+Human Resources,24E012,Carmen Wong Jia Ying,950622079725,+60 17-631 4321,HR Officer,carmeny622@gmail.com,5500.0,Active
+Housekeeping,24E013,Chai Xu Kun,850308073855,+60 10-246 8024,Room Attendant,xukunge38@gmail.com,2800.0,Active
+Accounting,24E014,Emily Chan Wei Ting,980125074932,017-124 1204,Accounts Receivable Clerk,Emily@gmail.com,3000.0,Active
+Maintenance,24E015,Charlie Lee Qian Lai,950819076782,+60 12-234 3456,Maintenance Manager,charlie819@gmail.com,4500.0,Active
+Food & Beverage,24E016,Chia Mei Fern,990621072942,+60 11-349 2711,Waiter,chiameifern99@gmail.com,2100.0,Active
+FrontDesk,24E017,Chloe Yeoh Xin Min,950708072249,+60 15-456 7890,Front Desk Supervisor,chloe78@gmail.com,4000.0,Active
+Inventory,24E018,Chong Yee Xian,951104071289,+60 17-931 0227,Inventory Controller,chongyx95@gmail.com,3700.0,Active
+Security,24E019,Clement Wong Kang Xian,8901103074563,+60 10-122 3336,Security supervisor,clement113@gmail.com,4000.0,Active
+FrontDesk,24E020,Connie Lau Xiao Ai,961123070726,+60 11-921 5435,Concierge,connie1123@gmail.com,3400.0,Active
+Sales & Marketing,24E021,David Ng Kong Qi,830705077913,+60 19-323 4221,Director of Sales & Marketing,david75@gmail.com,10000.0,Active
+Housekeeping,24E022,Daniel Foo Jia Jun,851230071989,+60 11-867 9831,Laundry Attendant,daniel123@gmail.com,2700.0,Active
+Housekeeping,24E023,Daniel Wong Ha Qian,840430072345,+60 11-972 5953,Room Attendant,daniel430@gmail.com,2800.0,Active
+Housekeeping,24E024,Diana Luo Di,840603071234,+60 17-834 5676,Room Attendant,diana63@gmail.com,2800.0,Active
+Maintenance,24E025,Diana Teh Xiang Shui,960323076879,+60 16-876 5432,Maintenance Worker,diana323@gmail.com,3000.0,Active
+Housekeeping,24E026,Dual Wong Hen Hao,841225077263,+60 15-835 6836,Room Attendant,Dual1225@gmail.com,2800.0,Active
+Housekeeping,24E027,Eason Chan Yick Shun,840902071467,+60 12-321 0987,Room Attendant,eason92@gmail.com,2800.0,Active
+FrontDesk,24E028,Eddie Wang Jin Fa,950912079121,+60 11-281 2875,Night Auditor,eddie912@gmail.com,3500.0,Active
+Security,24E029,Edward Tay Hao Chi,800914072567,017-112 3456,Security Manager,edward914@gmail.com,7500.0,Active
+Sales & Marketing,24E030,Ethan Wong Jun Hao,970609075747,+60 11-675 3111,Sales Coordinator,ethan069@gmail.com,3200.0,Active
+Food & Beverage,24E031,Felicia Chan Hui Wen,000306074838,+60 16-388 1104,Steward,feliciachan00@gmail.com,1900.0,Active
+Housekeeping,24E032,Feng Chuang lian,860202071268,+60 15-364 4244,Room Attendant,ChuanLian2@gmail.com,2800.0,Active
+Security,24E033,Frank Wang Lee Hom,950203074563,+60 15-123 4556,Security Guard,frank23@gmail.com,2800.0,Active
+Sales & Marketing,24E034,Grace Yeang Ji Li,880911071219,+60 10-545 3321,Sales Manager,grace911@gmail.com,5000.0,Active
+Food & Beverage,24E035,How Li Zhen,970809075529,+60 10-487 3422,Waiter,howlizhen97@gmail.com,2100.0,Active
+Maintenance,24E036,Jack Lin Jun Jie,960817076771,+60 17-765 4321,Maintenance Worker,jjlin817@gmail.com,3000.0,Active
+Food & Beverage,24E037,Jackson Soon Yang Li,801127078841,+60 15-729 4472,Head Chef,jacksonsoon80@gmail.com,8000.0,Active
+Security,24E038,James Tan Wei Jie,990305105555,+60 12-345 6789,Lifeguard,james3tan@gmail.com,2800.0,Active
+Housekeeping,24E039,Jasmine Tan Hui Min,840312073344,+60 15-268 9273,Public Area Cleaner,jasmine312@gmail.com,2700.0,Active
+Human Resources,24E040,Jason Lim Zhi Hao,900909074677,+60 17-631 4321,Recruitment Specialist,jason99@gmail.com,4500.0,Active
+FrontDesk,24E041,Jay Chou Jie Lun,970403071327,+60 19-789 0123,Receptionist,jayy43@gmail.com,3200.0,Active
+Housekeeping,24E042,Jessica Khoo He Ling,871203070236,+60 11-432 1098,Room Attendant,jessica1203@gmail.com,2800.0,Active
+Housekeeping,24E043,Jessie Koh Jie Ting,8704140808,+60 17-098 7654,Room Attendant,jessie414@gmail.com,2800.0,Active
+FrontDesk,24E44,Jessie Wang Xin Xing,970205072916,+60 11-120 4231,Reservation Agent,jessie25@gmail.com,3300.0,Active
+Housekeeping,24E045,Kang Bei Ni,8502079876,+60 16-204 3457,Room Attendant,beini@gmail.com,2800.0,Active
+Food & Beverage,24E046,Kelvin Tan Sheng Jie,980511071895,+60 18-934 7118,Steward,kelvintan98@gmail.com,1900.0,Active
+FrontDesk,24E047,Kenji Wee Jun Hong,950730072377,+60 11-311 2755,Bellhop,kenji0730@gmail.com,2800.0,Active
+FrontDesk,24E048,Kevin Goh Hai Wang,961215073925,+60 11-824 1324,Reservation Agent,kevin1215@gmail.com,3300.0,Active
+Food & Beverage,24E049,Kim Jing Hua,910719077196,+60 11-348 1029,Sous Chef,kimjing91@gmail.com,4500.0,Active
+Housekeeping,24E050,Lan Guan Zi,8604070710923,+60 11-745 3567,Room Attendant,GuanZi47@gmail.com,2800.0,Active
+Housekeeping,24E051,Lan He Zi,840603079231,+60 12-344 5356,Room Attendant,HeZi63@gmail.com,2800.0,Active
+Housekeeping,24E052,Lao Shi Bang,840808071233,+60 10-432 8163,Room Attendant,bang88@gmail.com,2800.0,Active
+Housekeeping,24E053,Lao Shi Shuai,851023070129,+60 16-557 7374,Room Attendant,shuai1023@gmail.com,2800.0,Active
+Housekeeping,24E054,Law Chong Ming,860826071283,+60 17-024 0472,Room Attendant,ming826@gmail.com,2800.0,Active
+Food & Beverage,24E055,Lawrence Ng Kai Xun,960217075481,+60 12-402 9958,Bartender,lawrence96@gmail.com,2200.0,Terminated
+Food & Beverage,24E056,Leona Ong Tang Chi,890409-70194,+60 16-801 2290,Restaurant Supervisor,leonaong89@gmail.com,4500.0,Active
+Security,24E057,Leslie Lim Shun Jian,870322074565,+60 19-111 2345,Assistant Security Manager,leslie322@gmail.com,5500.0,Active
+Food & Beverage,24E058,Liew Kai Xin,960225078238,+60 16-712 3466,Chef,liewkx96@gmail.com,3000.0,Active
+Housekeeping,24E059,Liew Ping Guo,860716074876,+60 15-240 9765,Room Attendant,ping716@gmail.com,2800.0,Active
+Inventory,24E060,Liew Sook Yin,880619075435,+60 12-664 3811,Storekeeper,liewsy88@gmail.com,3500.0,Active
+Inventory,24E061,Lim Wei Jian,830312075437,+60 12-438 2291,Purchasing Manager,limwj83@gmail.com,8500.0,Active
+FrontDesk,24E062,Linda Ooi Hui Ying,95030471224,+60 11-234 5678,Duty Manager,linda34@gmail.com,4500.0,Active
+Accounting,24E063,Linda Yu Qi,810817079374,012-876 5432,Financial Controller,linda@gmail.com,12000.0,Active
+Food & Beverage,24E064,Low Jin Xuan,981101076234,+60 17-615 9820,Waiter,lowjinxuan98@gmail.com,2100.0,Active
+Accounting,24E065,Matt Loo Han,920306079263,015-048 7521,Accountant,matt@gmail.com,6000.0,Active
+Human Resources,24E066,Michelle Tan Hui Min,961205073928,+60 17-631 4321,Payroll Administrator,michelle125@gmail.com,4000.0,Active
+Maintenance,24E067,Mike Cho Hao Mang,940707076787,+60 15-987 6543,Maintenance Supervisors,mike777@gmail.com,4000.0,Active
+Housekeeping,24E068,Minnie Yeang Xi Ying,870825071578,+60 19-135 7913,Room Attendant,minnie825@gmail.com,2800.0,Active
+Housekeeping,24E069,Nancy Ong Ai Shui,841016478,+60 10-543 2109,Assistant Housekeeper,nancy1016@gmail.com,4000.0,Active
+Inventory,24E070,Ng Kok Sheng,940225071549,+60 10-298 7430,Procurement Officer,ngks94@gmail.com,4500.0,Active
+Housekeeping,24E071,Nicholas Chua Ming Han,840223073279,+60 10-753 6644,Laundry Attendant,nicholas223@gmail.com,2700.0,Active
+FrontDesk,24E072,Olivia Tan Hua Ying,980204070128,+60 17-678 9012,Receptionist,olivia24@gmail.com,3200.0,Active
+Food & Beverage,24E073,Ong Jie Hui,980114074446,+60 11-829 0022,Chef,ongjh98@gmail.com,3000.0,Active
+Housekeeping,24E074,Ong Shou Ji,840307072123,+60 17-765 5676,Room Attendant,shouji037@gmail.com,2800.0,Active
+FrontDesk,24E075,Peter Lee Yao Tee,980503076727,+60 11-901 2345,Receptionist,peter53@gmail.com,3200.0,Active
+FrontDesk,24E076,Peter Siew Yao Tee,941024073291,+60 11-091 2363,Bellhop,peter1024@gmail.com,2800.0,Active
+Food & Beverage,24E077,Quek Jian Hao,990118077091,+60 11-711 9033,Steward,quekjianhao99@gmail.com,1800.0,Active
+Sales & Marketing,24E078,Rainie Yang Cheng Lin,961022072348,+60 11-989 3221,Sales Coordinator,rainie1022@gmail.com,3200.0,Active
+Food & Beverage,24E079,Raymond Teh Wei Lun,010903071329,+60 16-872 9084,Waiter,raymondteh01@gmail.com,2100.0,Active
+Housekeeping,24E080,Rowling Lau Hao Chi,851217077654,+60 10-275 9437,Room Attendant,rowling1217@gmail.com,2800.0,Active
+Accounting,24E081,Ryan Goh Jia Wei,970206070927,011-461 1014,Accounts Payable Clerk,jiawei@gmail.com,3000.0,Active
+Housekeeping,24E082,Sam Lim Ban Ye,861002072371,+60 15-210 9876,Room Attendant,samlim1002@gmail.com,2800.0,Active
+Food & Beverage,24E083,Sammy Lee Yi Zhi,860112072187,+60 17-492 3371,Restaurant Manager,sammylee86@gmail.com,5000.0,Active
+Housekeeping,24E084,Sean Chew Shang Yang,880515075155,+60 12-235 7538,Room Attendant,Sean515@gmail.com,2800.0,Active
+FrontDesk,24E085,Shi Mei Ni,930610075244,+60 16-241 1908,Receptionist,Meini0610@gmail.com,3200.0,Terminated
+Food & Beverage,24E086,Shuan Ooi Yeong Liang,820815075437,+60 12-654 3211,Food & Beverage Director,shuan8215@gmail.com,8000.0,Active
+Food & Beverage,24E087,Soh Yi Ting,970923076672,+60 17-209 3022,Steward,sohyiting97@gmail.com,1800.0,Active
+Security,24E088,Sophia Lee Xin Yi,000712085222,+60 11-987 6543,Lifeguard,sophia7lee@gmail.com,2800.0,Active
+Human Resources,24E089,Stephanie Goh Yu Xuan,920317075898,+60 17-631 4321,Training & Development Coordinator,stephanie317@gmail.com,5500.0,Active
+Inventory,24E090,Tan Mei Ling,90070807922,+60 11-765 3422,Procurement Officer,tanml90@gmail.com,5000.0,Active
+Food & Beverage,24E091,Tan Zhi Yuan,990306071198,+60 17-514 9831,Chef,tanzhy99@gmail.com,3000.0,Active
+Food & Beverage,24E092,Terence Chua Jia Hao,950506071145,+60 10-239 1175,Chef,terencechua95@gmail.com,3000.0,Active
+Housekeeping,24E093,Timmy Chew Kang Jien,870718071005,+60 16-109 8765,Room Attendant,timmy718@gmail.com,2800.0,Active
+Housekeeping,24E094,Tiffany Goh Pei Xuan,85050607766,+60 15-468 2901,Public Area Cleaner,tiffany056@gmail.com,2700.0,Active
+Housekeeping,24E095,Valerie Teo Jia Xin,840420071222,+60 16-275 6577,Room Attendant,valeria420@gmail.com,2800.0,Active
+Human Resources,24E096,Victor Chew You Xi,850410075673,+60 16-665 4541,HR Manager,victor41@gmail.com,8000.0,Active
+Human Resources,24E097,Wendy Tang Sze Wing,931104075232,+60 17-631 4321,HR Officer,wendy114@gmail.com,5500.0,Active
+FrontDesk,24E098,Wendy Ooi Shi Xiang,970910075244,+60 16-567 8901,Receptionist,wendy910@gmail.com,3200.0,Active
+FrontDesk,24E099,Wong Min Hao,970910075245,+60 16-657 8091,Receptionist,minhao910@gmail.com,3200.0,Active
+Inventory,24E100,Wong Zhi Hao,981229075183,+60 15-218 9944,Warehouse Assistant,wongzh98@gmail.com,2200.0,Active
+Accounting,24E101,Yao Tian Er,931012070856,016-520 1314,Accountant,tianer@gmail.com,6000.0,Active
+Food & Beverage,24E102,Yap Wei Ning,970808079932,+60 15-439 8250,Chef,yapwein97@gmail.com,3000.0,Active
+Food & Beverage,24E103,Yuen Pei Yee,000910071982,+60 16-693 8711,Bartender,yuenpy00@gmail.com,2200.0,Terminated
+Security,24E104,Yvonne Goh Mei Xiang,960822073568,+60 12-123 4456,Security Guard,yvonne822@gmail.com,2800.0,Active
+Spa & Massage,25E001,Chong Li Wei,010412076822,+60 17-555 1212,Massage Therapist,chongliwei96@gmail.com,3100.0,Active
+Spa & Massage,25E002,Lim Wei Xuan,950320075821,+60 12-345 6789,Spa Manager,limweixuan85@gmail.com,5800.0,Active
+Spa & Massage,25E003,Nur Aina Binti Zakaria,030603075311,+60 13-876 5432,Massage Therapist,nuraina98@gmail.com,3100.0,Active
+Spa & Massage,25E004,Siti Nor Farah,890201075934,+60 15-444 2233,Attendant,sitinorfarah99@gmail.com,2500.0,Active
+Spa & Massage,25E005,Tan Mei Yee,000715075622,+60 11-298 7654,Receptionist,tanmeiyee91@gmail.com,2800.0,Active
+Spa & Massage,25E006,Wong Kai Lin,040827076499,+60 16-123 4567,Massage Therapist,wongkailin95@gmail.com,3100.0,Active

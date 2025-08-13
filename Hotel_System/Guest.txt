@@ -1,0 +1,108 @@
+24G0001, Fiona Khoo Khai Lin, 990414075032, +60 14-9863456, fionakhl@gmail.com, true
+24G0002, Ashton Chew Khai Jun, 980718073081, +60 10-7179609, ashtonchew@gmail.com, true
+24G0003, Koh Shang Ting, 901203072040, +60 17-8726414, kohst1203@gmail.com, true
+24G0004, Yeang Shin Ying, 890825073514, +60 10-9978064, shinying25@gmail.com, true
+24G0005, Chew Ji Yuan, 860523071293, +60 11-2883570, jiyuan@yahoo.com, false
+24G0006, Hazell Saw Shi Qing, 870410077885, +60 13-6141425, hazeelll@gmail.com, false
+24G0007, Leng Ah Ngou, 790912074328, +60 11-6406629, leng1223@gmail.com, true
+24G0008, Shannon Looi Yao Hua, 020512-70-8524, +60 16-6087829, qmartin@shannon-lyons.info, false
+24G0009, Ben Qiao Xuan, 700322078317, +60 11-8091135, qiaoxuan0322, false
+24G0010, Legna Lee Ni, 650225079086, +60 17-1052563, legnaa@hotmail.com, true
+24G0011, Natalie Tan Shi Yu, 000411077259, +60 17-6094333, natalie12@gmail.com, false
+24G0012, Matthew Lim Kai Yang, 000730074182, +60 10-9635518, kaiyang@gmail.com, false
+24G0013, Alicia Ooi Zhi Ling, 741220075908, +60 13-9426072, aliciaooi@yahoo.com, true
+24G0014, Marilyn Khoo Qi Ting, 800106074261, +60 15-4578352, marilyn@gmail.com, false
+24G0015, Danielle Chew Kai En, 681005072815, +60 18-9080272, danielle@gmail.com, true
+24G0016, Ooi Pei Hua, 890318078615, +60 15-9203664, ooipeihuaaaa@gmail.com, true
+24G0017, Nicholas Lee Meng Xi, 760218071868, +60 13-5257164, mengxii2312@gmail.com, true
+24G0018, Lee Xiang Ming, 031029071985, +60 12-4326657, jasonq234@gmail.com, false
+24G0019, Tiffany Lim Chun Yu, 721121079881, +60 18-3123771, chunyu@yahoo.com, false
+24G0020, Emily Lim Jin Ru, 040629071795, +60 13-2997528, limjinru@gmail.com, false
+24G0021, Yeoh Bee Peng, 980720072567, +60 13-9195285, beepengyeoh@yahoo.com, false
+24G0022, Stephen Chow Xin Chi, 780812079986, +60 13-4620943, stephenchow@hotmail.com, false
+24G0023, Amy Lee Xin Yao, 870121078162, +60 17-5054801, amyhello@gmail.com, true
+24G0024, Alexander Ong Li Ling, 750808077426, +60 13-5070852,alexanderong@yahoo.com, true
+24G0025, Michael Wang Boo Teong, 050620073787, +60 12-6977773, wangbooteong@gmail.com, false
+24G0026, Tan Chee Siang, 061129078738, +60 18-9556022, cheesiangtan21@gmail.com, true
+24G0027, Jared Lim Yang, 890817091695, +60 13-4474706, jarodddd122@gmail.com, true
+24G0028, Khor Chu Wei, 790901078733, +60 17-5006715, khorkhorwei@holt.com, false
+24G0029, Felicia Tan Qian Ying, 860322076070, +60 12-3683071, tanqianying@gmail.com, true
+24G0030, Claudia Khor Xi Xia, 780828077114, +60 10-2776029, claudia1314@lopez.biz, false
+24G0031, Kristen Saw Ying Xi, 980619078237, +60 19-5944956, sawyingxi@gmail.com, true
+24G0032, Kara Lee Kai La, 030413072303, +60 18-2375441,karaaaala@gmail.com, true
+24G0033, Wong Bee Wooi, 760108073194, +60 14-9468708, beewooiwong@yahoo.com, true
+24G0034, Kimberly Khong En Yi, 961014076319, +60 18-2683872, kimberlykhong@gmail.com, true
+24G0035, Dawn Lim Yong En, 880819075837, +60 10-8969607, dawnlim@gmail.com, true
+24G0036, Kris Yeoh Zi Ming, 660317077185, +60 11-3083988, krisq2345@hotmail.com, true
+24G0037, Khoo Shi Liang, 040429078147, +60 15-3324162, liangkhoo@yahoo.com, true
+24G0038, Cody Hong Zheng Tuan, 671017078387, +60 14-7589317, codyhong13@hotmail.com, true
+24G0039, Jessica Ooi Qiao En, 021210074473, +60 10-8651442,jessicaooi@yahoo.com, false
+24G0040, Chew Yang Guo, 650901072761, +60 12-2514175, yangguo@gmail.com, false
+24G0041, Nathan Goh Meng Xiang, 730926077384, +60 18-5949608, nathangmx@gmail.com, true
+24G0042, Roy Wang Yuan, 790320077082, +60 12-9390585, roywangyuan@yahoo.com, false
+24G0043, Johnson Tan Shang Ming, 960626076813, +60 11-8425775, johnsontan@gmail.com, true
+24G0044, Joanna Lee Shu Fen, 031024073734, +60 17-3835119, joannaaa1234@gmail.com, false
+24G0045, Joseph Lim Wei Yang, 8605210772323, +60 11-1875739, josephlim@yahoo.com, false
+24G0046, Jacqueline Ong Shu Xiang, 930903078096, +60 11-1213594, jacongshuxiang@gmail.com, false
+24G0047, Ronald Khoo You Xiang, 811222078579, +60 17-9201292, ronaldkhoo@yahoo.com, true
+24G0048, Shawn Khoo Ming Kai, 000524079631, +60 18-2907106, shawnkhoo24@gmail.com, false
+24G0049, Pamela Moey Yi En, 730105071938, +60 17-7129710, pamelamoey24@gmail.com, true
+24G0050, James Foo Yuan Sheng, 890915074796, +60 13-3322268, james0915@yahoo.com, true
+24G0051, Jeffrey Tan Kun Ming, 890314073577, +60 13-3819511, jefferytan@yahoo.com, false
+24G0052, Yeang Li Xin, 790517078000, +60 14-6893258, lixinalice@hotmail.com, true
+24G0053, Carrie Koh Ji Xin, 730610078925, +60 15-9360210, kohcarrie@gmail.com, false
+24G0054, Timothy Sim Shang Kai, 731105078176, +60 11-1691233, timothyshangkai@hotmail.com, true
+24G0055, Christian Lee Hui Xin, 010920071068, +60 17-8152254, huixinleecc@yahoo.com, false
+24G0056, Darren Leong Cheong Chun, 641013075923, +60 18-7246975, darrenleong@yahoo.com, false
+24G0057, Caitlin Tay Si Yi, 980902074676, +60 19-4429740, caitlintay@gmail.com, false
+24G0058, Zachary Lim Wei Bo, 000523072041, +60 11-6190298, zaclim1290@yahoo.com, false
+24G0059, Sim Kee Ee, 700423071085, +60 17-7519775, simkee0512@gmail.com, false
+24G0060, Sandra Ong Jian Yu, 89083087634, +60 15-3323836, sandraong13@yahoo.com, true
+24G0061, Daniel Chew Kai Xiang, 710623075462, +60 12-7833941, danielchew87@yahoo.com, true
+24G0062, Alisha Looi Ker Xin, 901024072489, +60 17-2761367, alishakerxin@gmail.com, true
+24G0063, Heidi Khor Hai Di, 660217079148, +60 13-3312300, haidikhor@gmail.com, false
+24G0064, Melissa Goh May Fen, 821228079997, +60 15-6132524, melissagoh2415@gmail.com, false
+24G0065, Bradley Ooi Kai Ming, 870502078419, +60 15-1522890, bratleykaiming@hotmail.com, false
+24G0066, Rebecca Tan Li Xin, 870316077529, +60 17-7695591, rebeccatlx0316@gmail.com, true
+24G0067, Paul Lee Xiang, 781114072199, +60 15-1150295, paulleexiang@gmail.com, false
+24G0068, Vicki Ong Yong Heng, 900512072009, +60 12-4955401, vickiong26@hotmail.com, false
+24G0069, Michelle Yeoh Tian Xin, 770811077327, +60 17-3306074, michelleyeoh@yahoo.com, false
+24G0070, Ashley Chew Kai En, 861211075244, +60 14-7682258, ashleychew1325@yahoo.com, true
+24G0071, Ong Kuan Lin, 730824077817, +60 12-2429248, klong5647@gmail.com, true
+24G0072, Andrea Lim Xin Ying, 970328078005, +60 13-9663359, andrea4567@gmail.com, false
+24G0073, Lee Jia Xin, 900616075021, +60 17-7397466, jiaxin0624@hotmail.com, true
+24G0074, Elizabeth Goh Hui Mei, 750728148360, +60 17-3502795, elizabethmei@yahoo.com, false
+24G0075, Cheah Khang Yi, 921113078716, +60 16-5455817, khangyi0307@yahoo.com, true
+24G0076, Chew Shang Yuan, 890707044393, +60 18-9264435, shangyuan0515@gmail.com, true
+24G0077, Edmund Leong Jun Wei, 740428073426, +60 11-3607593, edmundleong077@hotmail.com, false
+24G0078, Sean Lim Xiao Jun, 000627076980, +60 19-9127960, seanlim0265@yahoo.com, false
+24G0079, Edward Tee Yong Xiang, 981103073802, +60 17-8945856, edwardtee@gmail.com, true
+24G0080, Hazel Saw Sze Ming, 720209074226, +60 19-3452365, sawszeming14@gmail.com, true
+24G0081, Khor Wei Chen, 640817073659, +60 15-1856839, khorweichen17@yahoo.com, false
+24G0082, Jonathan Lee Wei Leong, 950617073727, +60 18-7991006, jonathanlee1456@yahoo.com, false
+24G0083, Aaron Tan Yao Ming, 681104077386, +60 11-9688416, aarontan@gmail.com, true
+24G0084, Beth Sim Ker Yi, 050422078612, +60 16-4712553, bethsim18@gmail.com, true
+24G0085, Ronald Cheang Kai Sim, 871101074426, +60 17-1955513, ronaldcheang13@gmail.com, true
+24G0086, Wayne Chen Yik, 740302077135, +60 19-1989820, wayne1567@gmail.com, false
+24G0087, Lim Meng Hao, 840507074961, +60 18-8221006, limmenghao@gmail.com, true
+24G0088, Lim Jia Yee, 840107078115, +60 11-1060975, jiayeelim@gmail.com, false
+24G0089, Tan Jia Yi, 000607074463, +60 11-3221811, jiayitan14@gmail.com, false
+24G0090, Andrew Leong Chun Kee, 920828078315, +60 16-4592973, andrewleong520@gmail.com, true
+24G0091, Katrina Khong Jia Ling, 051014077028, +60 17-8573561, katrina29@hotmail.com, true
+24G0092, David Ong Shen Kai, 740124074217, +60 12-6939462, davidong2013@gmail.com, true
+24G0093, Liew Zheng Han, 781212076896, +60 11-4973388, zhenghan6358@yahoo.com, true
+24G0094, Yeoh Li Hong, 770819088211, +60 15-4989892, lihongyeoh@gmail.com, false
+24G0095, Kang Wen Yih, 810825077924, +60 15-2266014, kangwenyih56@gmail.com, true
+24G0096, Lyncoll Ong Chui Cher, 820928074617, +60 16-9398285, lyncollong12@hotmail.com, true
+24G0097, Yao Zi Min, 941225079819, +60 14-3315458, ziminyao125@gmail.com, false
+24G0098, Khor Yong Kean, 060303076198, +60 16-5183414, yongkean156@yahoo.com, false
+24G0099, Tan Hian Yee, 980401074399, +60 19-8540942, hianyee6522@gmail.com, true
+24G0100, Koay Wen Hong, 011002076281, +60 15-2029980, evankoay12@yahoo.com, false
+24G0101, Megan Lim Zhe Xuan, 700410075538, +60 18-9892032, meganlim51@gmail.com, true
+24G0102, David Cheah Hong Yu, 901123076101, +60 19-6909971, davidcheah@yahoo.com, false
+24G0103, Tan Shyn Yu, 980105073794, +60 16-3127926, shynyu0406@yahoo.com, false
+24G0104, Jeffrey Cheah Luo Ming, 731213078478, +60 18-9375480, jeffreycheah@yahoo.com, true
+24G0105, Lim Xiao Xi, 941231077122, +60 18-8654996, shainelimxx@gmail.com, false
+24G0106, Olivia Ng Yu Xuan, 710401073864, +60 15-9913336, oliviang0621@gmail.com, false
+25G0107, Goh Xuan Chen, 750129077510, +60 16-5152210, xuanchen@yahoo.com, true
+25G0108, Lim Zi Xin, 650127071826, +60 14-9283579, zixin0108@gmail.com, false

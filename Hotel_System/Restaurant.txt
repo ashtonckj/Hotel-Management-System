@@ -1,0 +1,3 @@
+R01,Restaurant,Breakfast,Floor 2,08:00,10:00
+R01,Restaurant,Lunch,Floor 2,12:00,14:00
+R01,Restaurant,Dinner,Floor 2,17:00,20:00

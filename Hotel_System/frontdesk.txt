@@ -1,0 +1,16 @@
+24E003,Alice Lim Mei Ping,Front Office Manager,FD001
+24E062,Linda Ooi Hui Ying,Duty Manager,FD002
+24E005,Amy Liew Mei Jun,Front Desk Assistant Manager,FD003
+24E017,Chloe Yeoh Xin Min,Front Desk Supervisor,FD004
+24E098,Wendy Ooi Shi Xiang,Receptionist,FD005
+24E085,Shi Mei Ni,Receptionist,FD006
+24E099,Wong Min Hao,Receptionist,FD007
+24E072,Olivia Tan Hua Ying,Receptionist,FD008
+24E041,Jay Chou Jie Lun,Receptionist,FD009
+24E075,Peter Lee Yao Tee,Receptionist,FD010
+24E048,Kevin Goh Hai Wang,Reservation Agent,RES001
+24E044,Jessie Wang Xin Xing,Reservation Agent,RES002
+24E020,Connie Lau Xiao Ai,Concierge,-
+24E076,Peter Siew Yao Tee,Bellhop,-
+24E047,Kenji Wee Jun Hong,Bellhop,-
+24E028,Eddie Wang Jin Fa,Night Auditor,AUD001

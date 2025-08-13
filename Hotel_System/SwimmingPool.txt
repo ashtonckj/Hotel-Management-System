@@ -1,0 +1,3 @@
+S01,Swimming Pool (Kids),Pool for kid which is 10 months to 6 years old (Need parental accompaniment),Floor 13,Mon,Kid,0.7m,James Tan Wei Jie
+S02,Swimming Pool (Adults),Pool for Adults,Floor 13,Mon,Adults,2.5m,James Tan Wei Jie
+S03,Swimming Pool (VIP),Pool for VIP,Floor 13,Tue,VIP,2.5m,Sophia Lee Xin Yi

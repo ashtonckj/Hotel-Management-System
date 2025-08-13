@@ -1,0 +1,108 @@
+24E003,Alice Lim Mei Ping,Front Office Manager,Monday,Morning
+24E062,Linda Ooi Hui Ying,Duty Manager,Tuesday,Morning
+24E005,Amy Liew Mei Jun,Front Desk Assistant Manager,Wedsnesday,Afternoon
+24E017,Chloe Yeoh Xin Min,Front Desk Supervisor,Thursday,Morning
+24E098,Wendy Ooi Shi Xiang,Receptionist,Friday,Morning
+24E085,Shi Mei Ni,Receptionist,Sunday,Morning
+24E099,Wong Min Hao,Receptionist,Saturday,Morning
+24E072,Olivia Tan Hua Ying,Receptionist,Sunday,Morning
+24E041,Jay Chou Jie Lun,Receptionist,Tuesday,Afternoon
+24E075,Peter Lee Yao Tee,Receptionist,Tuesday,Night
+24E048,Kevin Goh Hai Wang,Reservation Agent,Wednesday,Afternoon
+24E044,Jessie Wang Xin Xing,Reservation Agent,Thursday,Afternoon
+24E020,Connie Lau Xiao Ai,Concierge,Friday,Afternoon
+24E076,Peter Siew Yao Tee,Bellhop,Saturday,Afternoon
+24E047,Kenji Wee Jun Hong,Belhop,Wednesday,Night
+24E028,Eddie Wang Jin Fa,Night Auditor,Monday,Night
+24E015,Charlie Lee Qian Lai,Maintenance Manager,Monday,Afternoon
+24E067,Mike Cho Hao Mang,Maintenance Supervisors,Tuesday,Afternoon
+24E025,Diana Teh Xiang Shui,Maintenance Worker,Wednesday,Afternoon
+24E036,Jack Lin Jun Jie,Maintenance Worker,Thursday,Afternoon
+24E007,Angelina Loo Mei Mei,Maintenance Worker,Friday,Night
+24E010,Bob Wong Hao Lei,Executive Housekeeper,Monday,Full
+24E005,Nancy Ong Ai Shui,Assistant Housekeeper,Tuesday,Full
+24E027,Eason Chan Yick Shun,Room Attendant,Thursday,Full
+24E082,Sam Lim Ban Ye,Friday,Room Attendant,Full
+24E042,Jessica Khoo He Ling,Room Attendant,Wednesday,Full
+24E093,Timmy Chew Kang Jien,Room Attendant,Saturday,Full
+24E043,Jessie Koh Jie Ting,Room Attendant,Sunday,Full
+24E068,Minnie Yeang Xi Ying,Room Attendant,Saturday,Full
+24E013,Chai Xu Kun,Room Attendant,Friday,Full
+24E009,Bobo Tang Guo,Room Attendant,Thursday,Full
+24E006,Andy Lau Tak Wah,Room Attendant,Wednesday,Full
+24E059,Liew Ping Guo,Room Attendant,Tuesday,Full
+24E045,Kang Bei Ni,Room Attendant,Monday,Full
+24E024,Diana Luo Di,Room Attendant,Tuesday,Full
+24E080,Rowling Lau Hao Chi,Room Attendant,Wednesday,Full
+24E023,Daniel Wong Ha Qian,Room Attendant,Thursday,Full
+24E084,Sean Chew Shang Yang,Room Attendant,Friday,Full
+24E026,Dual Wong Hen Hao,Room Attendant,Saturday,Full
+24E053,Lao Shi Shuai,Room Attendant,Sunday,Full
+24E054,Law Chong Ming,Room Attendant,Saturday,Full
+24E052,Lao Shi Bang,Room Attendant,Friday,Full
+24E050,Lan Guan Zi,Room Attendant,Thursday,Full
+24E051,Lan He Zi,Room Attendant,Wednesday,Full
+24E032,Feng Chuang lian,Room Attendant,Tuesday,Full
+24E095,Valerie Teo Jia Xin,Room Attendant,Monday,Full
+24E074,Ong Shou Ji,Room Attendant,Monday,Full
+24E071,Nicholas Chua Ming Han,Laundry Attendant,Sunday,Full
+24E022,Daniel Foo Jia Jun,Laundry Attendant,Sunday,Full
+24E008,Ashley Ng Xin Yu,Public Area Cleaner,Tuesday,Full
+24E094,Tiffany Goh Pei Xuan,Public Area Cleaner,Wednesday,Full
+24E039,Jasmine Tan Hui Min,Public Area Cleaner,Thursday,Full
+24E063,Linda Yu Qi,Financial Controller,Monday,Full
+24E065,Matt Loo Han,Accountant,Tuesday,Full
+24E101,Yao Tian Er,Accountant,Wednesday,Full
+24E014,Emily Chan Wei Ting,Accounts Receivable Clerk,Thursday,Full
+24E081,Ryan Goh Jia Wei,Accounts Payable Clerk,Friday,Full
+24E029,Edward Tay Hao Chi,Security Manager,Monday&Friday,Morning
+24E011,Bryan Lee Jun Hong,Security Guard,Tuesday&Thursday,Morning
+24E019,Clement Wong Kang Xian,Security supervisor,Wednesday&Saturday,Morning
+24E057,Leslie Lim Shun Jian,Assistant Security Manager,Monday&Thursday,Night
+24E104,Yvonne Goh Mei Xiang,Security Guard,Tuesday&Friday,Night
+24E033,Frank Wang Lee Hom,Security Guard,Wednesday&Saturday,Night
+24E038,James Tan Wei Jie,Lifeguard,Monday,Full
+24E088,Sophia Lee Xin Yi,Lifeguard,Tuesday,Full
+24E096,Victor Chew You Xi,HR Manager,Monday&Friday,Full
+24E012,Carmen Wong Jia Ying,HR Officer,Tuesday&Thursday,Full
+24E097,Wendy Tang Sze Wing,HR Officer,Wednesday&Saturday,Full
+24E040,Jason Lim Zhi Hao,Recruitment Specialist,Monday&Thursday,Full
+24E089,Stephanie Goh Yu Xuan,Training & Development Coordinator,Tuesday&Friday,Full
+24E066,Michelle Tan Hui Min,Payroll Administrator,Wednesday&Saturday,Full
+24E021,David Ng Kong Qi,Director of Sales & Marketing,Monday&Friday,Full
+24E034,Grace Yeang Ji Li,Sales Manager,Tuesday&Thursday,Full
+24E078,Rainie Yang Cheng Lin,Sales Coordinator,Wednesday&Saturday,Full
+24E030,Ethan Wong Jun Hao,Sales Coordinator,Monday&Thursday,Full
+24E002,Adrian Liew Wen Jie,Marketing & Communications Manager,Tuesday&Friday,Full
+24E004,Amanda Soh Jia Wen,Digital Marketing Executive,Wednesday&Saturday,Full
+24E086,Shuan Ooi Yeong Liang,Food & Beverage Director,Thursday,Full
+24E083,Sammy Lee Yi Zhi,Restaurant Manager,Tuesday,Full
+24E056,Leona Ong Tang Chi,Restaurant Supervisor,Wednesday,Full
+24E037,Jackson Soon Yang Li,Head Chef,Monday,Full
+24E049,Kim Jing Hua,Sous Chef,Tuesday,Full
+24E092,Terence Chua Jia Hao,Chef,Wednesday,Full
+24E102,Yap Wei Ning,Chef,Thursday,Full
+24E058,Liew Kai Xin,Chef,Friday,Full
+24E073,Ong Jie Hui,Chef,Saturday,Full
+24E091,Tan Zhi Yuan,Chef,Sunday,Full
+24E079,Raymond Teh Wei Lun,Waiter,Monday,Full
+24E001,Adrian Goh Yew Hong,Waiter,Tuesday,Full
+24E016,Chia Mei Fern,Waiter,Wednesday,Full
+24E064,Low Jin Xuan,Waiter,Thursday,Full
+24E035,How Li Zhen,Waiter,Friday,Full
+24E046,Kelvin Tan Sheng Jie,Steward,Monday,Full
+24E031,Felicia Chan Hui Wen,Steward,Tuesday,Full
+24E077,Quek Jian Hao,Steward,Wednesday,Full
+24E087,Soh Yi Ting,Steward,Thursday,Full
+24E061,Lim Wei Jian,Purchasing Manager,Monday&Friday,Full
+24E090,Tan Mei Ling,Procurement Officer,Tuesday&Thursday,Full
+24E070,Ng Kok Sheng,Procurement Officer,Wednesday&Saturday,Full
+24E060,Liew Sook Yin,Storekeeper,Monday&Thursday,Full
+24E018,Chong Yee Xian,Inventory Controller,Tuesday&Friday,Full
+24E100,Wong Zhi Hao,Warehouse Assistant,Wednesday&Saturday,Full
+25E001,Chong Li Wei,Massage Therapist,Wednesday&Saturday,Full
+25E002,Lim Wei Xuan,Spa Manager,Monday&Friday,Full
+25E003,Nur Aina Binti Zakaria,Massage Therapist,Tuesday&Thursday,Full
+25E004,Siti Nor Farah,Attendant,Wednesday&Saturday,Full
+25E005,Tan Mei Yee,Receptionist,Monday&Thursday,Full
+25E006,Wong Kai Lin,Massage Therapist,Tuesday&Friday,Full

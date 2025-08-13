@@ -1,0 +1,10 @@
+24E003,Alice Lim Mei Ping,Front Desk,Front Office Manager
+24E015,Charlie Lee Qian Lai,Maintenance,Maintenance Manager
+24E010,Bob Wong Hao Lei,Housekeeping,Executive Housekeeper
+24E063,Linda Yu Qi,Accounting,Financial Controller
+24E029,Edward Tay Hao Chi,Security,Security Manager
+24E096,Victor Chew You Xi,Human Resources,HR Manager
+24E021,David Ng Kong Qi,Sales & Marketing,Director of Sales & Marketing
+24E086,Shuan Ooi Yeong Liang,Food & Beverage,Food & Beverage Director
+24E061,Lim Wei Jian,Inventory,Purchasing Manager
+25E002,Lim Wei Xuan,Spa & Massage,Spa Manager

@@ -1,0 +1,162 @@
+HI001,Bed sheet,Housekeeping ,800,Luxury Linens Co.,Housekeeping Room
+HI002,Pillowcase,Housekeeping ,800,Luxury Linens Co.,Housekeeping Room
+HI003,Blankets,Housekeeping ,800,Comfort Textiles,Housekeeping Room
+HI004,Pillows,Housekeeping ,800,Dream Comfort,Housekeeping Room
+HI005,Mattress,Housekeeping ,800,SleepWell Beds,Housekeeping Room
+HI006,Mattress protector,Housekeeping ,800,SafeSleep Products,Housekeeping Room
+HI007,Mattress topper,Housekeeping ,800,ComfortPlus Bedding,Housekeeping Room
+HI008,Bath towel,Housekeeping ,1000,Luxury Linens Co.,Housekeeping Room
+HI009,Hand towel,Housekeeping ,1000,Comfort Textiles,Housekeeping Room
+HI010,Face towel,Housekeeping ,1000,Comfort Textiles,Housekeeping Room
+HI011,Bathrobe,Housekeeping ,1000,Luxury Linens Co.,Housekeeping Room
+HI012,Bedroom slipper,Housekeeping ,1000,FootSoft Ltd.,Housekeeping Room
+HI013,Curtain,Housekeeping ,1000,Elegant Interiors,Housekeeping Room
+HI014,Drape,Housekeeping ,1000,Elegant Interiors,Housekeeping Room
+HI015,Sheer curtain,Housekeeping ,1000,Elegant Interiors,Housekeeping Room
+HI016,Carpet runner,Housekeeping ,1000,RugDesign Co.,Housekeeping Room
+HI017,Laundry bag,Housekeeping ,1000,EcoBags Supplies,Housekeeping Room
+HI018,Iron,Housekeeping ,400,HomeCare Appliances,Housekeeping Room
+HI019,Ironing board,Housekeeping ,400,HomeCare Appliances,Housekeeping Room
+HI020,Hairdryer,Housekeeping ,400,ComfortDry Solutions,Housekeeping Room
+HI021,Shower cap,Housekeeping ,1000,CleanKit,Housekeeping Room
+HI022,Sanitary bag,Housekeeping ,1000,HygieneCare Supplies,Housekeeping Room
+HI023,Tissue box,Housekeeping ,400,CleanSoft Co.,Housekeeping Room
+HI024,Tissue,Housekeeping ,1000,CleanSoft Co.,Housekeeping Room
+HI025,Trash bin,Housekeeping ,400,CleanTech Supplies,Housekeeping Room
+HI026,Trash bin liner,Housekeeping ,400,EcoBags Supplies,Housekeeping Room
+HI027,Air freshener,Housekeeping ,500,FreshScent,Housekeeping Room
+HI028,Insect repellent,Housekeeping ,500,SafeGuard Systems,Housekeeping Room
+HI029,Bottled water,Housekeeping ,1000,PureSpring Waters,Housekeeping Room
+HI030,Coffee,Housekeeping ,1000,Gourmet Coffee Co.,Housekeeping Room
+HI031,Tea bag,Housekeeping ,800,GreenLeaf Teas,Housekeeping Room
+HI032,Sugar,Housekeeping ,500,SweetPure Co.,Housekeeping Room
+HI033,Creamer,Housekeeping ,700,DairyPure Co.,Housekeeping Room
+HI034,Water kettle,Housekeeping ,400,HomeAppliances Co.,Housekeeping Room
+HI035,Drinking glasses,Housekeeping ,1000,GlassWorks Ltd.,Housekeeping Room
+HI036,Mug,Housekeeping ,1000,Drinkware Co.,Housekeeping Room
+HI037,Room signage,Housekeeping ,500,Signage Systems,Housekeeping Room
+HI038,Broom,Housekeeping ,50,CleanTech Supplies,Housekeeping Room
+HI039,Mop,Housekeeping ,50,CleanTech Supplies,Housekeeping Room
+HI040,Mop head,Housekeeping ,50,CleanTech Supplies,Housekeeping Room
+HI041,Vacuum cleaner,Housekeeping ,50,VacuMaster,Housekeeping Room
+HI042,Cleaning Trolley,Housekeeping ,50,TidyClean Solutions,Housekeeping Room
+HI043,Room service menus,Housekeeping ,1000,PrintDesigns Co.,Housekeeping Room
+HI044,Safety instruction card,Housekeeping ,1000,PrintDesigns Co.,Housekeeping Room
+HI045,Washing machine,Housekeeping ,5,HomeCare Appliances,Housekeeping Room
+HI046,Dryer,Housekeeping ,5,HomeCare Appliances,Housekeeping Room
+HI047,Shampoo,Housekeeping ,1000,KeenWu Manufacturing,Housekeeping Room
+HI048,Hair Conditioner,Housekeeping ,1000,KeenWu Manufacturing,Housekeeping Room
+HI049,Laundry detergent,Housekeeping ,1000,Ecolab,Housekeeping Room
+HI050,Hanging rack,Housekeeping ,100,HomePro,Housekeeping Room
+HI051,Ropes,Housekeeping ,100,ACE Hardware,Housekeeping Room
+HI052,Disposable gloves,Housekeeping ,1000,HealthGuard Supplies,Housekeeping Room
+FO001,Key card,Front Office ,500,SafeKey Solutions,Front Office
+FO002,Key card holder,Front Office ,500,SecureKey Co.,Front Office
+FO003,Guest registration card,Front Office ,500,Office Supplies Co.,Front Office
+FO004,Pen,Front Office ,500,Office Supplies Co.,Front Office
+FO005,Pencil,Front Office ,100,Office Supplies Co.,Front Office
+FO006,Notepad,Front Office ,100,Stationery Plus,Front Office
+FO007,Envelopes,Front Office ,100,Office Supplies Co,Front Office
+FO008,Brochures,Front Office ,100,PrintDesigns Co.,Front Office
+FO009,Local map,Front Office ,100,TravelMaps Co.,Front Office
+FO010,Luggage tag,Front Office ,500,TravelGear Supplies,Front Office
+FO011,Luggage trolley,Front Office ,10,Luggage Masters,Front Office
+FO012,Umbrellas,Front Office ,10,WeatherShield Supplies,Front Office
+FO013,Bellhop uniform,Front Office ,10,UniformTech Co.,Front Office
+FO014,Cash floats,Front Office ,2,CashGear Co.,Front Office
+FO015,Credit card machines,Front Office ,5,TechPOS Systems,Front Office
+FO016,Check-in folder,Front Office ,10,PrintDesigns Co.,Front Office
+FO017,Check-out folder,Front Office ,10,PrintDesigns Co.,Front Office
+FB001,Crockery,Food & Beverage (F&B) ,500,Fine Dining Supplies,Kitchen
+FB002,Cutlery,Food & Beverage (F&B) ,500,Silverware Co.,Kitchen
+FB003,Serving spoons,Food & Beverage (F&B) ,100,Serving Essentials Co,Kitchen
+FB004,Serving tongs,Food & Beverage (F&B) ,100,Serving Essentials Co,Kitchen
+FB005,Water glasses,Food & Beverage (F&B) ,500,GlassWorks Ltd.,Kitchen
+FB006,Cups,Food & Beverage (F&B) ,500,Drinkware Co,Kitchen
+FB007,Saucers,Food & Beverage (F&B) ,200,Drinkware Co,Kitchen
+FB008,Napkins,Food & Beverage (F&B) ,1000,Luxury Linens Co,Kitchen
+FB009,Tablecloths,Food & Beverage (F&B) ,200,Elegant Table Linens,Kitchen
+FB010,Placemats,Food & Beverage (F&B) ,200,Elegant Table Linens,Kitchen
+FB011,Trays,Food & Beverage (F&B) ,200,Hotel Supply Co.,Kitchen
+FB012,Buffet stands,Food & Beverage (F&B) ,20,BuffetWare Co.,Kitchen
+FB013,Buffet signage,Food & Beverage (F&B) ,10,Signage Systems,Kitchen
+FB014,Beverage dispensers,Food & Beverage (F&B) ,10,BeverageTech Co.,Kitchen
+FB015,Table condiments,Food & Beverage (F&B) ,10,Condiments Co.,Kitchen
+FB016,Wine bottle openers,Food & Beverage (F&B) ,10,WineTech Co.,Kitchen
+FB017,Ice scoops,Food & Beverage (F&B) ,5,IceMaster Supplies,Kitchen
+FB018,Straws,Food & Beverage (F&B) ,1000,EcoStraw Co.,Kitchen
+FB019,Toothpicks,Food & Beverage (F&B) ,1000,Hotel Supplies Co,Kitchen
+FB020,Menus,Food & Beverage (F&B) ,1000,PrintDesigns Co.,Kitchen
+FB021,Disposable gloves,Food & Beverage (F&B) ,1000,HealthGuard Supplies,Kitchen
+FB022,Chef uniforms,Food & Beverage (F&B) ,20,UniformTech Co,Kitchen
+FB023,Aprons,Food & Beverage (F&B) ,20,KitchenGear Supplies,Kitchen
+FB024,Pots,Food & Beverage (F&B) ,20,Kitchen Essentials,Kitchen
+FB025,Pans,Food & Beverage (F&B) ,20,Kitchen Essentials,Kitchen
+FB026,Baking trays,Food & Beverage (F&B) ,2,BakeWare Co.,Kitchen
+FB027,Food storage containers,Food & Beverage (F&B) ,100,Kitchen Supplies Co.,Kitchen
+FB028,Aluminum foil,Food & Beverage (F&B) ,100,Kitchen Essentials,Kitchen
+FB029,Cling film,Food & Beverage (F&B) ,100,Kitchen Essentials,Kitchen
+FB030,Kitchen knives,Food & Beverage (F&B) ,20,ChefTools Co.,Kitchen
+FB031,Chopping board,Food & Beverage (F&B) ,20,Kitchen Essentials,Kitchen
+FB032,Oven,Food & Beverage (F&B) ,5,KitchenMaster Equipment,Kitchen
+FB033,Fryer,Food & Beverage (F&B) ,5,FryTech Equipment,Kitchen
+FB034,Grill,Food & Beverage (F&B) ,5,GrillMaster Equipment,Kitchen
+FB035,Blender,Food & Beverage (F&B) ,5,SmoothieGear Co.,Kitchen
+FB036,Dishwasher,Food & Beverage (F&B) ,100,DishMaster Co.,Kitchen
+FB037,Cleaning detergent,Food & Beverage (F&B) ,100,CleanTech Supplies,Kitchen
+MI001,Light bulb,Maintenance ,10,Bright Lights Co.,Maintenance Room
+MI002,Spare electrical wiring,Maintenance ,10,Electrical Gear Co,Maintenance Room
+MI003,Switches and sockets,Maintenance ,10,Electrical Gear Co,Maintenance Room
+MI004,Circuit breaker,Maintenance ,10,PowerGuard Co.,Maintenance Room
+MI005,Plumbing supplies,Maintenance ,10,PipeMasters Co.,Maintenance Room
+MI006,Tools,Maintenance ,10,ToolGear Co.,Maintenance Room
+MI007,Power washers,Maintenance ,10,PowerClean Equipment,Maintenance Room
+MI008,Door lock,Maintenance ,10,SecureLock Solutions,Maintenance Room
+MI009,Key,Maintenance ,10,SafeKey Solutions,Maintenance Room
+MI010,Air filters,Maintenance ,10,CleanAir Co.,Maintenance Room
+MI011,Batteries,Maintenance ,100,PowerPlus Co.,Maintenance Room
+MI012,Ladders,Maintenance ,5,LadderPro Equipment,Maintenance Room
+MI013,Extension cords,Maintenance ,100,PowerGear Co.,Maintenance Room
+MI014,Fire extinguishers,Maintenance ,10,SafeGuard Systems,Maintenance Room
+MI015,Smoke detectors,Maintenance ,35,SafeGuard Systems,Maintenance Room
+MI016,Emergency lighting equipment,Maintenance ,35,LightGuard Co.,Maintenance Room
+MI017,Cable ties,Maintenance ,35,CableTech Supplies,Maintenance Room
+SP001,Pool Towel,Swimming Pool ,100,Luxury Linens Co,Cleaner Room
+SP002,Lifebuoy (Life Ring),Swimming Pool ,5,Safety Gear Supplies,Cleaner Room
+SP003,Life Jacket,Swimming Pool ,5,Marine Safety Equipment,Cleaner Room
+SP004,Pool Lounge Chair,Swimming Pool ,10,Outdoor Furniture Experts,Cleaner Room
+SP005,Sun Umbrella,Swimming Pool ,10,Shade Solutions Inc.,Cleaner Room
+SP006,Pool Cleaning Net,Swimming Pool ,100,AquaClean Supplies,Cleaner Room
+SP007,pH Test Kit,Swimming Pool ,10,PoolTech Supplies,Cleaner Room
+SP008,Pool Vacuum,Swimming Pool ,10,Pool Pro Equipment,Cleaner Room
+SP009,Chlorine Tablets,Swimming Pool ,5,ChemSafe Pools,Cleaner Room
+GI001,Treadmill,Gym ,5,FitnessTech Equipment,Gym Room
+GI002,Stationary Bike,Gym ,2,CycleFit Inc.,Gym Room
+GI003,Dumbbells Set,Gym ,2,ProWeights Supply,Gym Room
+GI004,Weight Bench,Gym ,2,Gym Essentials,Gym Room
+GI005,Squat Rack,Gym ,2,Iron Strength Equipment,Gym Room
+GI006,Resistance Bands,Gym ,2,FlexFit Gear,Gym Room
+GI007,Yoga Mat,Gym ,2,Zen Mats Co,Gym Room
+GI008,Foam Roller,Gym ,2,Recovery Gear,Gym Room
+GI009,Kettlebells Set,Gym ,2,HeavyLift Fitness,Gym Room						
+BE001,Tables,Banquet and Events ,100,IKEA,Event
+BE002,Chair,Banquet and Events ,800,IKEA,Event
+BE003,Tablecloth,Banquet and Events ,250,Local Fabric Suppliers,Event
+BE004,Decoration,Banquet and Events ,100,Event Deco Co.,Event
+BE005,Speaker,Banquet and Events ,5,AV Rentals,Event
+BE006,Mic,Banquet and Events ,5,Audio-Technica,Event
+BE007,Projector,Banquet and Events ,5,Panasonic,Event
+BE008,Menus,Banquet and Events ,1000,PrintDesigns Co.,Event							
+VP001,Parking tickets,Valet Parking ,1000,PrintDesigns Co.,Car Park
+VP002,Walkie-talkie,Valet Parking ,10,Motorola,Car Park
+VP003,Car key Locker,Valet Parking ,10,IKEA,Car Park
+VP004,Valet booth,Valet Parking ,10,Custom Booth Manufacturer,Car Park
+VP005,Traffic cones,Valet Parking ,100,Safetyware,Car Park
+VP006,Flashlight,Valet Parking ,10,Eveready,Car Park							
+SM001,Message chair,Spa and Massage ,10,OSIM,Spa and Massage Room
+SM002,Essantial oil,Spa and Massage ,100,Young Living,Spa and Massage Room
+SM003,Massage creams,Spa and Massage ,100,Spa Essentials Co,Spa and Massage Room
+SM004,Towel,Spa and Massage ,500,Comfort Textiles,Spa and Massage Room
+SM005,Robes,Spa and Massage ,1000,ACE Hardware,Spa and Massage Room
+SM006,Slippers,Spa and Massage ,1000,Cotton Collection,Spa and Massage Room
+SM007,Sanitizer,Spa and Massage ,1000,Local Chemical Co.,Spa and Massage Room

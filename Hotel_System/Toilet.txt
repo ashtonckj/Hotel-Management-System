@@ -1,0 +1,6 @@
+T01,Man Toilet,Floor 1
+T02,Women Toilet,Floor 1
+T03,Man Toilet,Floor 2
+T04,Women Toilet,Floor 2
+T05,Man Toilet,Floor 13
+T06,Women Toilet,Floor 13

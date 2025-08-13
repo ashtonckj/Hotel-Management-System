@@ -1,0 +1,322 @@
+R1501A, Suite, 160, 15
+R1502A, Suite, 160, 15
+R1503A, Single Room, 125, 15
+R1504A, Single Room, 125, 15
+R1505A, Single Room, 125, 15
+R1506A, Single Room, 125, 15
+R1507A, Single Room, 125, 15
+R1508A, Single Room, 125, 15
+R1509A, Single Room, 125, 15
+R1501B, Suite, 160, 15
+R1502B, Suite, 160, 15
+R1503B, Single Room, 125, 15
+R1504B, Single Room, 125, 15
+R1505B, Single Room, 125, 15
+R1506B, Single Room, 125, 15
+R1507B, Single Room, 125, 15
+R1508B, Single Room, 125, 15
+R1509B, Single Room, 125, 15
+R1601A, Suite, 160, 16
+R1602A, Suite, 160, 16
+R1603A, Single Room, 125, 16
+R1604A, Single Room, 125, 16
+R1605A, Single Room, 125, 16
+R1606A, Single Room, 125, 16
+R1607A, Single Room, 125, 16
+R1608A, Single Room, 125, 16
+R1609A, Single Room, 125, 16
+R1601B, Suite, 160, 16
+R1602B, Suite, 160, 16
+R1603B, Single Room, 125, 16
+R1604B, Single Room, 125, 16
+R1605B, Single Room, 125, 16
+R1606B, Single Room, 125, 16
+R1607B, Single Room, 125, 16
+R1608B, Single Room, 125, 16
+R1609B, Single Room, 125, 16
+R1701A, Suite, 160, 17
+R1702A, Suite, 160, 17
+R1703A, Single Room, 125, 17
+R1704A, Single Room, 125, 17
+R1705A, Single Room, 125, 17
+R1706A, Single Room, 125, 17
+R1707A, Single Room, 125, 17
+R1708A, Single Room, 125, 17
+R1709A, Single Room, 125, 17
+R1701B, Suite, 160, 17
+R1702B, Suite, 160, 17
+R1703B, Single Room, 125, 17
+R1704B, Single Room, 125, 17
+R1705B, Single Room, 125, 17
+R1706B, Single Room, 125, 17
+R1707B, Single Room, 125, 17
+R1708B, Single Room, 125, 17
+R1709B, Single Room, 125, 17
+R1801A, Suite, 160, 18
+R1802A, Suite, 160, 18
+R1803A, Single Room, 125, 18
+R1804A, Single Room, 125, 18
+R1805A, Single Room, 125, 18
+R1806A, Single Room, 125, 18
+R1807A, Single Room, 125, 18
+R1808A, Single Room, 125, 18
+R1809A, Single Room, 125, 18
+R1801B, Suite, 160, 18
+R1802B, Suite, 160, 18
+R1803B, Single Room, 125, 18
+R1804B, Single Room, 125, 18
+R1805B, Single Room, 125, 18
+R1806B, Single Room, 125, 18
+R1807B, Single Room, 125, 18
+R1808B, Single Room, 125, 18
+R1809B, Single Room, 125, 18
+R1901A, Suite, 160, 19
+R1902A, Suite, 160, 19
+R1903A, Single Room, 125, 19
+R1904A, Single Room, 125, 19
+R1905A, Single Room, 125, 19
+R1906A, Single Room, 125, 19
+R1907A, Single Room, 125, 19
+R1908A, Single Room, 125, 19
+R1909A, Single Room, 125, 19
+R1901B, Suite, 160, 19
+R1902B, Suite, 160, 19
+R1903B, Single Room, 125, 19
+R1904B, Single Room, 125, 19
+R1905B, Single Room, 125, 19
+R1906B, Single Room, 125, 19
+R1907B, Single Room, 125, 19
+R1908B, Single Room, 125, 19
+R1909B, Single Room, 125, 19
+R2001A, Suite, 160, 20
+R2002A, Suite, 160, 20
+R2003A, Single Room, 125, 20
+R2004A, Single Room, 125, 20
+R2005A, Single Room, 125, 20
+R2006A, Single Room, 125, 20
+R2007A, Single Room, 125, 20
+R2008A, Single Room, 125, 20
+R2009A, Single Room, 125, 20
+R2001B, Suite, 160, 20
+R2002B, Suite, 160, 20
+R2003B, Single Room, 125, 20
+R2004B, Single Room, 125, 20
+R2005B, Single Room, 125, 20
+R2006B, Single Room, 125, 20
+R2007B, Single Room, 125, 20
+R2008B, Single Room, 125, 20
+R2009B, Single Room, 125, 20
+R2101A, Suite, 160, 21
+R2102A, Suite, 160, 21
+R2103A, Single Room, 125, 21
+R2104A, Single Room, 125, 21
+R2105A, Single Room, 125, 21
+R2106A, Single Room, 125, 21
+R2107A, Single Room, 125, 21
+R2108A, Single Room, 125, 21
+R2109A, Single Room, 125, 21
+R2101B, Suite, 160, 21
+R2102B, Suite, 160, 21
+R2103B, Single Room, 125, 21
+R2104B, Single Room, 125, 21
+R2105B, Single Room, 125, 21
+R2106B, Single Room, 125, 21
+R2107B, Single Room, 125, 21
+R2108B, Single Room, 125, 21
+R2109B, Single Room, 125, 21
+R2201A, Suite, 160, 22
+R2202A, Suite, 160, 22
+R2203A, Executive Suite, 170, 22
+R2204A, Executive Suite, 170, 22
+R2205A, Executive Suite, 170, 22
+R2206A, Executive Suite, 170, 22
+R2201B, Suite, 160, 22
+R2202B, Suite, 160, 22
+R2203B, Executive Suite, 170, 22
+R2204B, Executive Suite, 170, 22
+R2205B, Executive Suite, 170, 22
+R2206B, Executive Suite, 170, 22
+R2301A, Suite, 160, 23
+R2302A, Suite, 160, 23
+R2303A, Executive Suite, 170, 23
+R2304A, Executive Suite, 170, 23
+R2305A, Executive Suite, 170, 23
+R2306A, Executive Suite, 170, 23
+R2301B, Suite, 160, 23
+R2302B, Suite, 160, 23
+R2303B, Executive Suite, 170, 23
+R2304B, Executive Suite, 170, 23
+R2305B, Executive Suite, 170, 23
+R2306B, Executive Suite, 170, 23
+R2401A, Suite, 160, 24
+R2402A, Suite, 160, 24
+R2403A, Executive Suite, 170, 24
+R2404A, Executive Suite, 170, 24
+R2405A, Executive Suite, 170, 24
+R2406A, Executive Suite, 170, 24
+R2401B, Suite, 160, 24
+R2402B, Suite, 160, 24
+R2403B, Executive Suite, 170, 24
+R2404B, Executive Suite, 170, 24
+R2405B, Executive Suite, 170, 24
+R2406B, Executive Suite, 170, 24
+R2501A, Suite, 160, 25
+R2502A, Suite, 160, 25
+R2503A, Executive Suite, 170, 25
+R2504A, Executive Suite, 170, 25
+R2505A, Executive Suite, 170, 25
+R2506A, Executive Suite, 170, 25
+R2501B, Suite, 160, 25
+R2502B, Suite, 160, 25
+R2503B, Executive Suite, 170, 25
+R2504B, Executive Suite, 170, 25
+R2505B, Executive Suite, 170, 25
+R2506B, Executive Suite, 170, 25
+R2601A, Suite, 160, 26
+R2602A, Suite, 160, 26
+R2603A, Executive Suite, 170, 26
+R2604A, Executive Suite, 170, 26
+R2605A, Executive Suite, 170, 26
+R2606A, Executive Suite, 170, 26
+R2601B, Suite, 160, 26
+R2602B, Suite, 160, 26
+R2603B, Executive Suite, 170, 26
+R2604B, Executive Suite, 170, 26
+R2605B, Executive Suite, 170, 26
+R2606B, Executive Suite, 170, 26
+R2701A, Suite, 160, 27
+R2702A, Suite, 160, 27
+R2703A, Executive Suite, 170, 27
+R2704A, Executive Suite, 170, 27
+R2705A, Executive Suite, 170, 27
+R2706A, Executive Suite, 170, 27
+R2701B, Suite, 160, 27
+R2702B, Suite, 160, 27
+R2703B, Executive Suite, 170, 27
+R2704B, Executive Suite, 170, 27
+R2705B, Executive Suite, 170, 27
+R2706B, Executive Suite, 170, 27
+R2801A, Suite, 160, 28
+R2802A, Suite, 160, 28
+R2803A, Executive Suite, 170, 28
+R2804A, Executive Suite, 170, 28
+R2805A, Executive Suite, 170, 28
+R2806A, Executive Suite, 170, 28
+R2801B, Suite, 160, 28
+R2802B, Suite, 160, 28
+R2803B, Executive Suite, 170, 28
+R2804B, Executive Suite, 170, 28
+R2805B, Executive Suite, 170, 28
+R2806B, Executive Suite, 170, 28
+R2901A, Deluxe Room, 180, 29
+R2902A, Deluxe Room, 180, 29
+R2903A, Family Room, 180, 29
+R2904A, Family Room, 180, 29
+R2905A, Family Room, 180, 29
+R2906A, Family Room, 180, 29
+R2901B, Deluxe Room, 180, 29
+R2902B, Deluxe Room, 180, 29
+R2903B, Family Room, 180, 29
+R2904B, Family Room, 180, 29
+R2905B, Family Room, 180, 29
+R2906B, Family Room, 180, 29
+R3001A, Deluxe Room, 180, 30
+R3002A, Deluxe Room, 180, 30
+R3003A, Family Room, 180, 30
+R3004A, Family Room, 180, 30
+R3005A, Family Room, 180, 30
+R3006A, Family Room, 180, 30
+R3001B, Deluxe Room, 180, 30
+R3002B, Deluxe Room, 180, 30
+R3003B, Family Room, 180, 30
+R3004B, Family Room, 180, 30
+R3005B, Family Room, 180, 30
+R3006B, Family Room, 180, 30
+R3101A, Deluxe Room, 180, 31
+R3102A, Deluxe Room, 180, 31
+R3103A, Family Room, 180, 31
+R3104A, Family Room, 180, 31
+R3105A, Family Room, 180, 31
+R3106A, Family Room, 180, 31
+R3101B, Deluxe Room, 180, 31
+R3102B, Deluxe Room, 180, 31
+R3103B, Family Room, 180, 31
+R3104B, Family Room, 180, 31
+R3105B, Family Room, 180, 31
+R3106B, Family Room, 180, 31
+R3201A, Deluxe Room, 180, 32
+R3202A, Deluxe Room, 180, 32
+R3203A, Family Room, 180, 32
+R3204A, Family Room, 180, 32
+R3205A, Family Room, 180, 32
+R3206A, Family Room, 180, 32
+R3201B, Deluxe Room, 180, 32
+R3202B, Deluxe Room, 180, 32
+R3203B, Family Room, 180, 32
+R3204B, Family Room, 180, 32
+R3205B, Family Room, 180, 32
+R3206B, Family Room, 180, 32
+R3301A, Deluxe Room, 180, 33
+R3302A, Deluxe Room, 180, 33
+R3303A, Family Room, 180, 33
+R3304A, Family Room, 180, 33
+R3305A, Family Room, 180, 33
+R3306A, Family Room, 180, 33
+R3301B, Deluxe Room, 180, 33
+R3302B, Deluxe Room, 180, 33
+R3303B, Family Room, 180, 33
+R3304B, Family Room, 180, 33
+R3305B, Family Room, 180, 33
+R3306B, Family Room, 180, 33
+R3401A, Deluxe Room, 180, 34
+R3402A, Deluxe Room, 180, 34
+R3403A, Family Room, 180, 34
+R3404A, Family Room, 180, 34
+R3405A, Family Room, 180, 34
+R3406A, Family Room, 180, 34
+R3401B, Deluxe Room, 180, 34
+R3402B, Deluxe Room, 180, 34
+R3403B, Family Room, 180, 34
+R3404B, Family Room, 180, 34
+R3405B, Family Room, 180, 34
+R3406B, Family Room, 180, 34
+R3501A, Deluxe Room, 180, 35
+R3502A, Deluxe Room, 180, 35
+R3503A, Family Room, 180, 35
+R3504A, Family Room, 180, 35
+R3505A, Family Room, 180, 35
+R3506A, Family Room, 180, 35
+R3501B, Deluxe Room, 180, 35
+R3502B, Deluxe Room, 180, 35
+R3503B, Family Room, 180, 35
+R3504B, Family Room, 180, 35
+R3505B, Family Room, 180, 35
+R3506B, Family Room, 180, 35
+R3601A, Deluxe Suite, 200, 36
+R3602A, Deluxe Suite, 200, 36
+R3603A, Deluxe Suite, 200, 36
+R3604A, Deluxe Suite, 200, 36
+R3605A, Deluxe Suite, 200, 36
+R3601B, Deluxe Suite, 200, 36
+R3602B, Deluxe Suite, 200, 36
+R3603B, Deluxe Suite, 200, 36
+R3604B, Deluxe Suite, 200, 36
+R3605B, Deluxe Suite, 200, 36
+R3701A, Deluxe Suite, 200, 37
+R3702A, Deluxe Suite, 200, 37
+R3703A, Deluxe Suite, 200, 37
+R3704A, Deluxe Suite, 200, 37
+R3705A, Deluxe Suite, 200, 37
+R3701B, Deluxe Suite, 200, 37
+R3702B, Deluxe Suite, 200, 37
+R3703B, Deluxe Suite, 200, 37
+R3704B, Deluxe Suite, 200, 37
+R3705B, Deluxe Suite, 200, 37
+R3801A, Family Suite, 250, 38
+R3802A, Family Suite, 250, 38
+R3803A, Family Suite, 250, 38
+R3804A, Family Suite, 250, 38
+R3801B, Family Suite, 250, 38
+R3802B, Family Suite, 250, 38
+R3803B, Family Suite, 250, 38
+R3804B, Family Suite, 250, 38

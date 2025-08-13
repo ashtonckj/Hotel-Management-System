@@ -1,0 +1,10 @@
+D01,FrontDesk,15
+D02,Maintenance,5
+D03,Housekeeping,31
+D04,Accounting,5
+D05,Security,8
+D06,Human Resources,6
+D07,Sales & Marketing,6
+D08,Food & Beverage,19
+D09,Inventory,6
+D10,Spa & Massage,6

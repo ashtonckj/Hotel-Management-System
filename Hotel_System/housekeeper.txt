@@ -1,0 +1,31 @@
+24E010,Bob Wong Hao Lei,Executive Housekeeper
+24E005,Nancy Ong Ai Shui,Assistant Housekeeper
+24E027,Eason Chan Yick Shun,Room Attendant
+24E082,Sam Lim Ban Ye,Room Attendant
+24E042,Jessica Khoo He Ling,Room Attendant
+24E093,Timmy Chew Kang Jien,Room Attendant
+24E043,Jessie Koh Jie Ting,Room Attendant
+24E068,Minnie Yeang Xi Ying,Room Attendant
+24E013,Chai Xu Kun,Room Attendant
+24E009,Bobo Tang Guo,Room Attendant
+24E006,Andy Lau Tak Wah,Room Attendant
+24E059,Liew Ping Guo,Room Attendant
+24E045,Kang Bei Ni,Room Attendant
+24E024,Diana Luo Di,Room Attendant
+24E080,Rowling Lau Hao Chi,Room Attendant
+24E023,Daniel Wong Ha Qian,Room Attendant
+24E084,Sean Chew Shang Yang,Room Attendant
+26E026,Dual Wong Hen Hao,Room Attendant
+24E053,Lao Shi Shuai,Room Attendant
+24E054,Law Chong Ming,Room Attendant
+24E052,Lao Shi Bang,Room Attendant
+24E050,Lan Guan Zi,Room Attendant
+24E051,Lan He Zi,Room Attendant
+24E032,Feng Chuang lian,Room Attendant
+24E095,Valerie Teo Jia Xin,Room Attendant
+24E074,Ong Shou Ji,Room Attendant
+24E071,Nicholas Chua Ming Han,Laundry Attendant
+24E022,Daniel Foo Jia Jun,Laundry Attendant
+24E008,Ashley Ng Xin Yu,Public Area Cleaner
+24E094,Tiffany Goh Pei Xuan,Public Area Cleaner
+24E039,Jasmine Tan Hui Min,Public Area Cleaner
