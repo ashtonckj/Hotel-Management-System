@@ -5,14 +5,14 @@
 
 ---
 
-## 1. Introduction
+## 📖 Overview
 
-The **HuggleMe Hotel Management System** is designed to help hotels manage daily operations more efficiently and reduce human error.  
+The **HuggleMe** is a hotel management system is designed to help hotels manage daily operations more efficiently and reduce human error.  
 It supports key tasks such as reservations, guest records, employee management, facilities, invoices, payments, reports, and housekeeping schedules.
 
 ---
 
-## 2. Core Functionalities
+## ✨ Core Functionalities
 
 - **Room Management** – Tracks room types (single, double, suite, deluxe), prices, availability, and room IDs to prevent double-booking.
 - **Booking & Reservations** – Allows staff to view available rooms, make bookings, and update or cancel reservations.
@@ -24,7 +24,7 @@ It supports key tasks such as reservations, guest records, employee management, 
 
 ---
 
-## 3. System Workflow (Simplified Overview)
+## 📝 System Workflow (Simplified Overview)
 
 The system provides different access levels based on the employee’s role:
 
@@ -48,17 +48,8 @@ Managers have **additional privileges** to generate detailed reports for reserva
 
 ---
 
-## 4. UML Diagram
+## 📈 UML Diagram
 
 <img width="3591" height="3239" alt="UML Diagram" src="https://github.com/user-attachments/assets/ba06eb00-dd20-4c16-a925-5dc3c35b59dc" />
-
----
-
-## 5. Key Benefits
-
-- Centralized system for all hotel operations.
-- Reduced errors through automation.
-- Improved guest experience with faster service.
-- Easy reporting for business insights.
 
 ---
